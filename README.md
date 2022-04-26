@@ -154,7 +154,7 @@ C.S.E - English
 
 **Additional Information**
 
-Clean UK Driving Licence.
+UK Driving Licence.
 
 Proficient using Microsoft Office.
 
