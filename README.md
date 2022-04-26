@@ -1,5 +1,7 @@
 # Stephen Evans
 
+[Profile](#profile) | [Key Skills](#key-skills) | [Career History](#career-history) | [Education](#education) | [Addiitonal Information](#additional-information) | [LinkedIn](https://www.linkedin.com/in/stephen-evans-b13782/)
+
 ## Profile
 
 A commercially aware technician who has been in the computer industry since 1992. During this time has been involved in all aspects of systems development from inception to final installation including training and support. Experienced working with and managing teams both large and small. Motivated and disciplined with a proven ability to work to deadlines and support team objectives.
@@ -152,7 +154,7 @@ G.C.E&#39;s - Mathematics
 
 C.S.E - English
 
-**Additional Information**
+## Additional Information
 
 UK Driving Licence.
 
