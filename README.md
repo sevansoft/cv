@@ -1,6 +1,6 @@
 # Stephen Evans
 
-[Profile](#profile) | [Key Skills](#key-skills) | [Career History](#career-history) | [Education](#education) | [Addiitonal Information](#additional-information) | [LinkedIn](https://www.linkedin.com/in/stephen-evans-b13782/)
+[Profile](#profile) | [Key Skills](#key-skills) | [Career History](#career-history) | [Education](#education) | [Additional Information](#additional-information) | [LinkedIn](https://www.linkedin.com/in/stephen-evans-b13782/)
 
 ## Profile
 
