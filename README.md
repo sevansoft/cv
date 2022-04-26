@@ -142,7 +142,7 @@ Principle duties involved analysis, design and development of bespoke software s
 
 1987 - Principles of Accounts
 
-1980 – 1984Wymondham High School
+1980 – 1984 Wymondham High School
 
 G.C.E&#39;s - Mathematics
 
