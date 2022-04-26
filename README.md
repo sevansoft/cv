@@ -158,4 +158,4 @@ UK Driving Licence.
 
 Proficient using Microsoft Office.
 
-A keen motor sport fan, both 2 and 4 wheeled. Implemented a home network included the use of multiple Virtual Machines (Hyper-V and VmWare), Windows Update Services, DNS and Active Directory.
+A keen motor sport fan, both 2 and 4 wheeled.
