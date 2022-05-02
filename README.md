@@ -73,7 +73,7 @@ Joining the team whose responsibilities include a technical uplift of the compan
 
 **April 2019 to April 2020 – Lead Software Engineer, Mam Software**
 
-Employed specifically to head a new team established to architect, build and deliver a set of REST micro services exposing functionality of the company&#39;s flag ship product. The project was conducted using .Net Core, unit tested with Moq and XUnit, built and deployed via Azure DevOps build and release pipelines and was hosted in Azure.
+Employed specifically to head a new team established to architect, build and deliver a set of REST micro services exposing functionality of the company&#39;s flag ship product. The project was conducted using .Net Core, unit tested with Moq and XUnit, built and deployed via Azure DevOps build and release pipelines and was hosted in Azure. Each micro service was supported by unit tested Swagger OpenAPI specification.
 
 **February 2017 to April 2019 – Senior C# Developer, Insure Telematics Solutions**
 
