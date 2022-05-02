@@ -10,15 +10,15 @@ With a long career in the development arena, I am now looking for a role in whic
 
 ## Key Skills
 
-**VB/VB.Net 20 years +**
-
-- ASP.NET Web API
-- ASP.NET MVC
-- ASP.NET Web Forms
-
 **C# 16 years +**
 
 - .Net Core
+- ASP.NET Web API
+- ASP.NET MVC
+- ASP.NET Web Forms
+- 
+**VB/VB.Net 20 years +**
+
 - ASP.NET Web API
 - ASP.NET MVC
 - ASP.NET Web Forms
