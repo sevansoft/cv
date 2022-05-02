@@ -47,6 +47,7 @@ With a long career in the development arena, I am now looking for a role in whic
 **Other**
 
 - Blazor Server and Web Assembly (Personal Projects)
+- Application Insights – Splunk – Prometheus - Grafana
 - Docker
 - MongoDB
 - nodeJS
