@@ -69,7 +69,7 @@ With a long career in the development arena, I am now looking for a role in whic
 
 **May 2020 to Present – Senior Software Engineer, Compare The Market**
 
-Joining the team whose responsibilities include a technical uplift of the companies' micro service and user authentication services from a .Net Framework 4.8 ASP.NET API/MVC to .Net 6 Identity backend together with a React frontend. The .Net 6 solution is supported by unit, integration and docker container "outside-in" tests whereby a resulting Docker image build artifact which is then containerised and tested. The React solution is supported by unit and integration tests also resulting in a Docker image build artifact. In both instances, the build artifacts are deployed to a Kubernetes cluster. All automated pipelines are hosted on ThoughtsWorks Go Server.
+Joining the team whose responsibilities include a technical uplift of the companies' micro service and user authentication services from a .Net Framework 4.8 ASP.NET API/MVC to .Net 6 Identity backend together with a React frontend. The .Net 6 solution is supported by unit, integration and docker container "outside-in" tests whereby a resulting Docker image build artifact is then containerised and tested. The React solution is supported by unit and integration tests also resulting in a Docker image build artifact. In both instances, the build artifacts are deployed to a Kubernetes cluster. All automated pipelines are hosted on ThoughtsWorks Go Server.
 
 **April 2019 to April 2020 – Lead Software Engineer, Mam Software**
 
