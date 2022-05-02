@@ -34,7 +34,7 @@ With a long career in the development arena, I am now looking for a role in whic
 
 - React (2 years)
 - ASP/HTML/DHTML/XHTML
-- JavaScript - CSS - Json
+- JavaScript - CSS - JSON
 - Ajax - SOAP
 - JQuery
 
