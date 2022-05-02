@@ -16,7 +16,7 @@ With a long career in the development arena, I am now looking for a role in whic
 - ASP.NET Web API
 - ASP.NET MVC
 - ASP.NET Web Forms
-- 
+
 **VB/VB.Net 20 years +**
 
 - ASP.NET Web API
@@ -27,7 +27,7 @@ With a long career in the development arena, I am now looking for a role in whic
 
 **Cloud Platforms 5 years +**
 
-- Azure
+- Azure (5 years)
 - AWS (2 years)
 
 **Web Development 16 years +**
